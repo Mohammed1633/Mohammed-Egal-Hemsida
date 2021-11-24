@@ -1,12 +1,24 @@
  Här är den första Turnerings tabell, det är 16 lag som är indelade i fyra grupper
 
 
-   // <div class="tabell">
-      <img src="./Skärmklipp.PNG" width="400" />
-      
+
+
+
+    ------------------------------------------------------------------------------------------
+    */
+     <div class="container">
+       <div class="title">Registrering</div>
+       <form action="#">
+           <div class="user-details">
+               <div class="input-box">
+                   <span class="details">Fullständigt Namn</span>
+                   <input type="text" placeholder="Skriv ditt namn"">
+               </div>
+           </div>
+       </form>
     </div>
+    /*
+-----------------------------------------------------------------------------------------------
 
-
-    
 
 
